@@ -1,0 +1,10 @@
+[
+{"icon":"fa fa-desktop", "serviceTitle": "Desktop Software Development", "shortDescription":""},
+{"icon":"fa fa-mobile", "serviceTitle": "Mobile Applications Development", "shortDescription":""},
+{"icon":"fa fa-binoculars", "serviceTitle": "Software QA & Testing", "shortDescription":""},
+{"icon":"fa fa-server", "serviceTitle": "DevOps", "shortDescription":""},
+{"icon":"fa fa-photo", "serviceTitle": "Logo & Brandind", "shortDescription":""},
+{"icon":"fa fa-product-hunt", "serviceTitle": "Product Design", "shortDescription":""},
+{"icon":"", "serviceTitle": "Database Administration", "shortDescription":""},
+{"icon":"fa fa-globe", "serviceTitle": "Digital Marketing", "shortDescription":""} 
+]
